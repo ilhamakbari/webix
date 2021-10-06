@@ -1,0 +1,1 @@
+$$("film_list").load("movie.json");
